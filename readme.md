@@ -1,6 +1,13 @@
 SVG Experiment
 ==============
 
+> [!IMPORTANT]
+> This repository is archived & read-only.
+> All content has been merged into https://github.com/ldpercy/experiment-html/svg
+
+
+
+
 Small experiments and tests of SVG features.
 
 
